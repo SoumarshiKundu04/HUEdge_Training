@@ -1,0 +1,105 @@
+21:15:22.283 [main] INFO  Test.APITests - set up done
+21:15:24.223 [main] INFO  Test.APITests - Register passed
+21:15:24.694 [main] INFO  Test.APITests - delete negative scenario passed
+21:15:25.233 [main] INFO  Test.APITests - Single user negative scenario passed
+21:15:25.675 [main] INFO  Test.APITests - Login negative scenario passed
+21:15:26.131 [main] INFO  Test.APITests - Create request passed
+21:15:26.310 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:15:26.319 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:15:26.319 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+21:15:26.327 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:15:26.834 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:15:27.510 [main] INFO  Test.APITests - page 2 verification passed
+21:15:27.510 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:15:27.526 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:15:27.529 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+21:15:27.529 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:15:27.542 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:15:27.738 [main] INFO  Test.APITests - page 1 verification passed
+21:15:28.295 [main] INFO  Test.APITests - create task negative scenario passed
+21:15:29.921 [main] INFO  Test.APITests - register negative scenario passed
+21:15:30.998 [main] INFO  Test.APITests - login passed
+21:42:50.666 [main] INFO  Test.APITests - set up done
+21:42:52.764 [main] INFO  Test.APITests - Create request passed
+21:42:54.335 [main] INFO  Test.APITests - Register passed
+21:42:54.522 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:42:54.528 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:42:54.531 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+21:42:54.531 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:42:55.014 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:42:55.381 [main] INFO  Test.APITests - page 1 verification passed
+21:42:55.398 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:42:55.402 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:42:55.403 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+21:42:55.406 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:42:55.431 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:42:55.649 [main] INFO  Test.APITests - page 2 verification passed
+21:42:56.178 [main] INFO  Test.APITests - create task negative scenario passed
+21:42:58.022 [main] INFO  Test.APITests - register negative scenario passed
+21:42:58.546 [main] INFO  Test.APITests - Single user negative scenario passed
+21:42:59.339 [main] INFO  Test.APITests - Login negative scenario passed
+21:42:59.820 [main] INFO  Test.APITests - delete negative scenario passed
+21:43:01.117 [main] INFO  Test.APITests - login passed
+09:22:08.626 [main] INFO  Test.APITests - set up done
+09:22:11.006 [main] INFO  Test.APITests - Register passed
+09:22:11.579 [main] INFO  Test.APITests - delete negative scenario passed
+09:22:12.071 [main] INFO  Test.APITests - Single user negative scenario passed
+09:22:12.542 [main] INFO  Test.APITests - Login negative scenario passed
+09:22:12.983 [main] INFO  Test.APITests - Create request passed
+09:22:13.187 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:22:13.194 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:22:13.195 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+09:22:13.200 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:22:13.812 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:22:14.188 [main] INFO  Test.APITests - page 2 verification passed
+09:22:14.200 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:22:14.200 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:22:14.203 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+09:22:14.203 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:22:14.223 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:22:14.980 [main] INFO  Test.APITests - page 1 verification passed
+09:22:16.438 [main] INFO  Test.APITests - create task negative scenario passed
+09:22:18.762 [main] INFO  Test.APITests - register negative scenario passed
+09:22:20.322 [main] INFO  Test.APITests - login passed
+09:23:02.208 [main] INFO  Test.APITests - set up done
+09:23:04.586 [main] INFO  Test.APITests - Create request passed
+09:23:05.388 [main] INFO  Test.APITests - Register passed
+09:23:05.504 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:23:05.516 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:23:05.518 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+09:23:05.520 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:23:05.900 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:23:06.792 [main] INFO  Test.APITests - page 1 verification passed
+09:23:06.807 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:23:06.807 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:23:06.807 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+09:23:06.807 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:23:06.837 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:23:07.043 [main] INFO  Test.APITests - page 2 verification passed
+09:23:07.626 [main] INFO  Test.APITests - create task negative scenario passed
+09:23:09.022 [main] INFO  Test.APITests - register negative scenario passed
+09:23:09.492 [main] INFO  Test.APITests - Single user negative scenario passed
+09:23:10.092 [main] INFO  Test.APITests - Login negative scenario passed
+09:23:10.808 [main] INFO  Test.APITests - delete negative scenario passed
+09:23:11.931 [main] INFO  Test.APITests - login passed
+09:36:47.675 [main] INFO  Test.APITests - set up done
+09:36:50.516 [main] INFO  Test.APITests - Register passed
+09:36:51.081 [main] INFO  Test.APITests - delete negative scenario passed
+09:36:51.557 [main] INFO  Test.APITests - Single user negative scenario passed
+09:36:52.085 [main] INFO  Test.APITests - Login negative scenario passed
+09:36:52.591 [main] INFO  Test.APITests - Create request passed
+09:36:52.766 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:36:52.772 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:36:52.776 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+09:36:52.779 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:36:53.271 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:36:53.649 [main] INFO  Test.APITests - page 2 verification passed
+09:36:53.664 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:36:53.665 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:36:53.667 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+09:36:53.669 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:36:53.687 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:36:54.342 [main] INFO  Test.APITests - page 1 verification passed
+09:36:54.834 [main] INFO  Test.APITests - create task negative scenario passed
+09:36:56.541 [main] INFO  Test.APITests - register negative scenario passed
+09:36:57.804 [main] INFO  Test.APITests - login passed

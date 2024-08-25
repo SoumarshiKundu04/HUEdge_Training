@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/soumarkundu/IdeaProjects/JAVA_APITesting_Automation">
+        <classes>
+            <class name="Test.APITests">
+                <methods>
+                <include name="createRequest"/>
+                <include name="Register"/>
+                    <include name="Login"/>
+                    <include name="validatePaginationLimit1"/>
+                    <include name="validatePaginationLimit2"/>
+                    <include name="createNegativeScenario"/>
+                    <include name="registerNegativeScenario"/>
+                    <include name="singleUserNegativeScenario"/>
+                    <include name="LoginNegativeScenario"/>
+                    <include name="deleteNegativeScenario"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
